@@ -13,5 +13,4 @@ export function loadCourses() {
             throw(error);
         });
     };
-
 }
